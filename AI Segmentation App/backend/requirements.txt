@@ -1,0 +1,16 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+firebase-admin==6.3.0
+numpy<2.0
+pydicom==2.4.3
+Pillow==10.1.0
+gunicorn==21.2.0
+python-jose==3.3.0
+passlib==1.7.4
+nibabel==5.2.0
+torch>=2.0.0
+nnunetv2
+dynamic-network-architectures
+SimpleITK
+scipy
