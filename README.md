@@ -1,28 +1,24 @@
-# 🩺 **Project 15 – Segmentarea Arterei Etmoidale Anterioare pe CBCT**
+# 🩺 **Project 15 – 3D Segmentation of the Anterior Ethmoidal Artery on CBCT**
 
 ---
 
-<video src="Teaser_segminions.mp4" controls width="100%"></video>.
-
----
-
-## 👩‍💻 **Echipa SEGMINIONS**
+## 👩‍💻 **SEGMINIONS Team**
 - **Negru Diana-Maria**  
 - **Oproi Denisa-Florina**  
 - **Ordean Anamaria**
 
 ---
 
-## 🎯 **Problema Abordată**
+## 🎯 **Problem Addressed**
 
-Chirurgia endoscopică nazală necesită **precizie maximă**, deoarece lezarea accidentală a **arterei etmoidale anterioare (AEA)** reprezintă un risc frecvent intraoperator.  
-Pentru reducerea acestui risc, este esențială **identificarea preoperatorie precisă** a traseului AEA pe imagini **CBCT (Cone-Beam Computed Tomography)**.  
+Nasal endoscopic surgery requires **maximum precision**, as the accidental injury of the **anterior ethmoidal artery (AEA)** represents a frequent intraoperative risk.  
+To reduce this risk, the **precise preoperative identification** of the AEA trajectory on **CBCT (Cone-Beam Computed Tomography)** images is essential.  
 
-🔍 **Obiectivul proiectului:**  
-Dezvoltarea unui sistem automat bazat pe inteligență artificială care să **segmenteze și localizeze AEA** pe imagini CBCT, contribuind la:  
-- ✅ Creșterea siguranței operatorii  
-- ✅ Reducerea riscului de lezare vasculară  
-- ✅ Îmbunătățirea acurateței și eficienței intervențiilor endoscopice nazale  
+🔍 **Project Objective:**  
+Developing an automated artificial intelligence system to **segment and localize the AEA** on CBCT scans, contributing to:  
+- ✅ Increasing operative safety  
+- ✅ Reducing the risk of vascular injury  
+- ✅ Improving the accuracy and efficiency of nasal endoscopic interventions  
 
 ---
 
