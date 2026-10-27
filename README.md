@@ -2,6 +2,10 @@
 
 ---
 
+<video src="Teaser_segminions.mp4" controls width="100%"></video>.
+
+---
+
 ## 👩‍💻 **Echipa SEGMINIONS**
 - **Negru Diana-Maria**  
 - **Oproi Denisa-Florina**  
